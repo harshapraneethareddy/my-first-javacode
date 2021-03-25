@@ -1,4 +1,4 @@
-//summ of two nubers
+//sum of the numbers
 public class add
 {
 public static void main(String[] args)
@@ -12,3 +12,4 @@ System.out.println("sum of these two numbers: "+sum);
 }
 }
 //code executed successfully
+//if any queries contact browser
